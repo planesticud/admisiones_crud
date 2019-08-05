@@ -1,0 +1,3 @@
+-- inserts inscripcion.estado_inscripcion
+-- inserts inscripcion.tipo_inscripcion
+-- inserts inscripcion.tipo_proyecto
